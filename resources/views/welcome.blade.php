@@ -163,7 +163,7 @@
                     </main>
 
                     <footer class="py-16 text-center text-sm text-black dark:text-white/70">
-                       Esta es una forma de prueba
+                       1234567890
                     </footer>
                 </div>
             </div>
